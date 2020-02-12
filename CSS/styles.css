@@ -3,7 +3,7 @@ color:#40514E;
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
-}
+  }
 
 h1 {
   font-size: 4.375rem;
@@ -37,6 +37,7 @@ a {color: #11999e;
 font-family: 'Montserrat', sans-serif;margin: 10px 20px; text-decoration: none;}
 
 a:hover {color:#eaf6f6;}
+
 .top-container {
   background-color: #b0dedb;
   position: relative;
@@ -55,11 +56,11 @@ a:hover {color:#eaf6f6;}
   bottom: 300px;
 }
 
-.middle-container {}
+.middle-container {position: relative;margin-top: 40px;}
 
 .intro {max-width: 500px; margin-left: auto;margin-right: auto;}
-.computer-text{max-width: 600px;margin-left: auto;margin-right: auto;}
-.plants-text{max-width: 600px;margin-left: auto;margin-right: auto;}
+.computer-text{max-width: 500px;margin-left: auto;margin-right: auto;}
+.plants-text{max-width: 500px;margin-left: auto;margin-right: auto;}
 
 .skill-row {
     width:50%;
